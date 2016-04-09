@@ -1,5 +1,5 @@
 public class BubbleSort{
-	public void SortArray(int[] array){
+	public void SortArray(int[] array, int b){
 		
 		
 		
