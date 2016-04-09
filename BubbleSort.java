@@ -5,7 +5,10 @@ public class BubbleSort{
 		
 		
 		
-		
-		
+	
+		System.out.println("The Bubble Sort is");
+		for(int i = 0; i < b; i++){
+			System.out.println(sortarray[i]);
+		}
 	}
 }
