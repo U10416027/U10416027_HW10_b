@@ -16,5 +16,7 @@ public class UseBubbleSort{
 			int a = input.nextInt();
 			array[i] = a; 
 		}
+		BubbleSort sort = new BubbleSort();
+		sort.SortArray(array);
 	}
 }
