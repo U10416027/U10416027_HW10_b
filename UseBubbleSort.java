@@ -12,5 +12,8 @@ public class UseBubbleSort{
 		System.out.println("Start Enter");
 		int[] array = new int [x];
 		
+		for(int i = 0; i < x; i++){
+			
+		}
 	}
 }
