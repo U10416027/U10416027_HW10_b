@@ -8,5 +8,9 @@ public class UseBubbleSort{
 		System.out.println("How many integers you want to enter ?");
 		int x = input.nextInt();
 		
+		System.out.println("");
+		System.out.println("Start Enter");
+		int[] array = new int [x];
+		
 	}
 }
