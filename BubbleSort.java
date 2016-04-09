@@ -1,5 +1,7 @@
 public class BubbleSort{
-	public void SortArray(int[] array, int b){
+	public void SortArray(int[] sortarray, int b){
+		int largest;
+		boolean check = true;
 		
 		
 		
