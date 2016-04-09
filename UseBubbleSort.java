@@ -13,7 +13,8 @@ public class UseBubbleSort{
 		int[] array = new int [x];
 		
 		for(int i = 0; i < x; i++){
-			
+			int a = input.nextInt();
+			array[i] = a; 
 		}
 	}
 }
